@@ -1,5 +1,5 @@
-Hi there 👋
-![EWF](https://user-images.githubusercontent.com/49988198/162614310-bc32437f-2bcb-4b1d-8b83-b333637726af.jpg)
+![cover](https://user-images.githubusercontent.com/49988198/162614708-30b39176-6d80-4966-883b-7435c743aa80.jpg)
+
 
 <!--
 **BhanuMM/BhanuMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
